@@ -2,11 +2,12 @@
 
 ## Overview
 
-FreelanceConnect is a comprehensive freelancing platform that connects clients with freelancers. The application features project posting, freelancer discovery, bidding, messaging, and project management capabilities. Built with a modern stack including React, Express.js, TypeScript, and PostgreSQL with Drizzle ORM.
+FreelanceConnect is a comprehensive freelancing platform that connects clients with freelancers. The application features project posting, freelancer discovery, bidding, messaging, and project management capabilities. Built with a modern stack including React, Express.js, JavaScript, and in-memory storage (converted from TypeScript to JavaScript per user request).
 
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
+Programming language preference: JavaScript (not TypeScript) for everything.
 
 ## System Architecture
 
